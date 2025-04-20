@@ -40,14 +40,18 @@
 
 ### 1. Clone the Repository
 
-#### 2.SETUP
+## 2. SETUP
 
 # FRONTEND
 cd frontend
+
 npm install
+
 npm run dev
 
 # BACKEND
 cd backend
+
 npm install
+
 npm start
